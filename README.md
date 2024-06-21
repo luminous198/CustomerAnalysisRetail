@@ -4,12 +4,6 @@ This repository contains a Python script for analyzing retail customer behavior 
 Prerequisites
 Ensure you have the following Python packages installed:
 
-pandas
-matplotlib
-seaborn
-wordcloud
-numpy
-scikit-learn
 You can install them using pip:
 
 pip install pandas matplotlib seaborn wordcloud numpy scikit-learn
