@@ -347,7 +347,6 @@ if __name__ == "__main__":
 
     print(df.describe())
 
-
     plot_transaction_type(df)
     plot_time_of_day_bar(df)
     top_invoice_customer_timings(df)
